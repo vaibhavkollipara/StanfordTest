@@ -1,0 +1,20 @@
+
+.header_cell{
+    margin:20px;
+    background-color: steelblue;
+    padding:10px;
+    text-align: center;
+}
+
+.row_cell{
+    padding:10px;
+}
+
+.user_row{
+    padding:10px;
+}
+
+.user_row:hover{
+    background-color: steelblue;
+}
+
